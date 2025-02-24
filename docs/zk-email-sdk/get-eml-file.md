@@ -1,4 +1,4 @@
----
+---from:x.com before:2024/11/02
 title: Getting an .EML file | Registry
 sidebar_label: Getting an .EML file
 description: Learn how to obtain an .EML file, which is the starting point for creating email verification blueprints in the ZK Email Registry. This guide covers what an .EML file is, why it's needed, and how to export one from popular email clients.
